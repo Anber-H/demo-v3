@@ -1,0 +1,29 @@
+{
+  "name": "demo-v3",
+  "version": "1.0.0",
+  "description": "vue3 demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anber-H/demo-v3.git"
+  },
+  "author": "anber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anber-H/demo-v3/issues"
+  },
+  "homepage": "https://github.com/Anber-H/demo-v3#readme",
+  "dependencies": {
+    "ant-design-vue": "^2.0.0-rc.2",
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "vite": "^1.0.0-rc.8"
+  }
+}
